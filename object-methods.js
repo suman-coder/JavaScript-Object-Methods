@@ -39,3 +39,6 @@ student.name = "Harry";
 student.state = "UK";
 console.log("Modified object", user);  // Output- Modified object {name: 'Tim', state: 'MH', profile: 'Executive Engineer', country: 'India', language: 'English', married: true}
 console.log("Modified name and state in user object", user.name, user.state); // Output- Modified name and state in user object: Tim MH
+
+/* Object.values(obj)
+*/
